@@ -1,0 +1,6 @@
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskControllerPerformance.cs\obj\Release\TaskControllerPerformanceTest.csprojResolveAssemblyReference.cache
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskControllerPerformance.dll.config
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskControllerPerformance.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskControllerPerformance.pdb
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskControllerPerformance.cs\obj\Release\TaskControllerPerformance.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskControllerPerformance.cs\obj\Release\TaskControllerPerformance.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1035]C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerApi.Tests\bin\Debug\TaskManagerApi.Tests.dll</TopNode>
+  <SelectedNode>[0-1030]TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithInvalidModelState_Then_Should_Fail()</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1035]C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerApi.Tests\bin\Debug\TaskManagerApi.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1036]TaskManagerApi" Expanded="true" />
+    <Node UniqueName="[0-1037]TaskManagerApi.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]TaskManagerApi.Tests.TaskControllerTest" Expanded="true" />
+    <Node UniqueName="[0-1031]TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithIdMismatch_Then_Should_Fail" Expanded="true" />
+    <Node UniqueName="[0-1029]TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithInvalidModelState_Then_Should_Fail" Expanded="true" />
+    <Node UniqueName="[0-1033]TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithValidModelState_Then_Should_Pass" Expanded="true" />
+    <Node UniqueName="[0-1009]TaskManagerApi.Tests.TaskControllerTest.When_DeleteExistingTaskModel_Then_Deleted" Expanded="true" />
+    <Node UniqueName="[0-1011]TaskManagerApi.Tests.TaskControllerTest.When_DeleteNonExistingTaskModel_Then_Error" Expanded="true" />
+    <Node UniqueName="[0-1013]TaskManagerApi.Tests.TaskControllerTest.When_DeleteTaskAndDBError_Then_Fail" Expanded="true" />
+    <Node UniqueName="[0-1027]TaskManagerApi.Tests.TaskControllerTest.When_ModelWithInvalidState_Then_ValidationShouldStopFurtherSteps" Expanded="true" />
+    <Node UniqueName="[0-1021]TaskManagerApi.Tests.TaskControllerTest.When_Post_AnExistingTask_Then_Fail" Expanded="true" />
+    <Node UniqueName="[0-1023]TaskManagerApi.Tests.TaskControllerTest.When_Post_AnNewTask_Then_Pass" Expanded="true" />
+    <Node UniqueName="[0-1025]TaskManagerApi.Tests.TaskControllerTest.When_Post_AnNewTaskAndDBError_Then_Fail" Expanded="true" />
+    <Node UniqueName="[0-1017]TaskManagerApi.Tests.TaskControllerTest.When_Put_AnExistingTask_Then_Pass" Expanded="true" />
+    <Node UniqueName="[0-1015]TaskManagerApi.Tests.TaskControllerTest.When_Put_Task_WhichIsNotAvailale_Then_Error" Expanded="true" />
+    <Node UniqueName="[0-1019]TaskManagerApi.Tests.TaskControllerTest.When_PutTaskWithInvalidModelState_Then_Should_Fail" Expanded="true" />
+    <Node UniqueName="[0-1005]TaskManagerApi.Tests.TaskControllerTest.When_SearchByTaskIdAndAvailable_Then_OkReceived" Expanded="true" />
+    <Node UniqueName="[0-1007]TaskManagerApi.Tests.TaskControllerTest.When_SearchByTaskIdAndNotAvailable_Then_NotFoundReceived" Expanded="true" />
+    <Node UniqueName="[0-1003]TaskManagerApi.Tests.TaskControllerTest.When_SearchForAllParentTask_Then_AllParentTasksReceived" Expanded="true" />
+    <Node UniqueName="[0-1001]TaskManagerApi.Tests.TaskControllerTest.When_SearchForAllTask_Then_AllTasksReceived" Expanded="true" />
+  </Nodes>
+</VisualState>

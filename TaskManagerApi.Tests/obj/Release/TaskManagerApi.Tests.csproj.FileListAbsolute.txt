@@ -1,0 +1,9 @@
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerApi.Tests\obj\Release\TaskManagerApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerApi.Tests.dll.config
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerApi.Tests.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerApi.Tests.pdb
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerApi.Tests\obj\Release\TaskManagerApi.Tests.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerApi.Tests\obj\Release\TaskManagerApi.Tests.pdb

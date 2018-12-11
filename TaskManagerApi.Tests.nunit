@@ -1,0 +1,6 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Default" />
+  <Config name="Default" binpathtype="Auto">
+    <assembly path="..\..\..\Desktop\..\source\repos\TaskManagerApp\TaskManagerApi.Tests\bin\Debug\TaskManagerApi.Tests.dll" />
+  </Config>
+</NUnitProject>

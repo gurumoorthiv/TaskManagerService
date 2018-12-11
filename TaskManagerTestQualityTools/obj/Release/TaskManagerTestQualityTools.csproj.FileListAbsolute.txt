@@ -1,0 +1,6 @@
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerTestQualityTools\obj\Release\TaskManagerTestQualityTools.csprojResolveAssemblyReference.cache
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerTestQualityTools.dll.config
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerTestQualityTools.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerTestQualityTools.pdb
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerTestQualityTools\obj\Release\TaskManagerTestQualityTools.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerTestQualityTools\obj\Release\TaskManagerTestQualityTools.pdb

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerApi.Tests.dll" total="17" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-12-01" time="01:29:07">
+  <environment nunit-version="2.6.3.13283" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp" machine-name="DMAA-PG00CZGV" user="gurumoorthi.v" user-domain="TRAFGLOBAL" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerApi.Tests.dll" executed="True" result="Success" success="True" time="1.885" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TaskManagerApi" executed="True" result="Success" success="True" time="1.878" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="1.878" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TaskControllerTest" executed="True" result="Success" success="True" time="1.877" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="When_CloseTaskWithIdMismatch_Then_Should_Fail" executed="True" result="Success" success="True" time="1.726" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithIdMismatch_Then_Should_Fail()" executed="True" result="Success" success="True" time="1.722" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_CloseTaskWithInvalidModelState_Then_Should_Fail" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithInvalidModelState_Then_Should_Fail()" executed="True" result="Success" success="True" time="0.007" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_CloseTaskWithValidModelState_Then_Should_Pass" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_CloseTaskWithValidModelState_Then_Should_Pass()" executed="True" result="Success" success="True" time="0.006" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_DeleteExistingTaskModel_Then_Deleted" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_DeleteExistingTaskModel_Then_Deleted()" executed="True" result="Success" success="True" time="0.010" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_DeleteNonExistingTaskModel_Then_Error" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_DeleteNonExistingTaskModel_Then_Error()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_DeleteTaskAndDBError_Then_Fail" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_DeleteTaskAndDBError_Then_Fail()" executed="True" result="Success" success="True" time="0.017" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_ModelWithInvalidState_Then_ValidationShouldStopFurtherSteps" executed="True" result="Success" success="True" time="0.058" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_ModelWithInvalidState_Then_ValidationShouldStopFurtherSteps()" executed="True" result="Success" success="True" time="0.058" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_Post_AnExistingTask_Then_Fail" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_Post_AnExistingTask_Then_Fail()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_Post_AnNewTask_Then_Pass" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_Post_AnNewTask_Then_Pass()" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_Post_AnNewTaskAndDBError_Then_Fail" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_Post_AnNewTaskAndDBError_Then_Fail()" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_Put_AnExistingTask_Then_Pass" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_Put_AnExistingTask_Then_Pass()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_Put_Task_WhichIsNotAvailale_Then_Error" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_Put_Task_WhichIsNotAvailale_Then_Error()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_PutTaskWithInvalidModelState_Then_Should_Fail" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_PutTaskWithInvalidModelState_Then_Should_Fail()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_SearchByTaskIdAndAvailable_Then_OkReceived" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_SearchByTaskIdAndAvailable_Then_OkReceived()" executed="True" result="Success" success="True" time="0.003" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_SearchByTaskIdAndNotAvailable_Then_NotFoundReceived" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_SearchByTaskIdAndNotAvailable_Then_NotFoundReceived()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_SearchForAllParentTask_Then_AllParentTasksReceived" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_SearchForAllParentTask_Then_AllParentTasksReceived()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="When_SearchForAllTask_Then_AllTasksReceived" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="TaskManagerApi.Tests.TaskControllerTest.When_SearchForAllTask_Then_AllTasksReceived()" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

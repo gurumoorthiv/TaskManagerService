@@ -1,0 +1,14 @@
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerEntitiesModel.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\BuildArtifacts\TaskManagerEntitiesModel.pdb
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.csprojResolveAssemblyReference.cache
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.dll
+C:\Users\Gurumoorthi.v\source\repos\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.pdb
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\TaskManagerEntitiesModel.dll
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\TaskManagerEntitiesModel.pdb
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.dll
+C:\Users\Admin\Downloads\Final\Final\TaskManagerApp\TaskManagerEntitiesModel\obj\Release\TaskManagerEntitiesModel.pdb
