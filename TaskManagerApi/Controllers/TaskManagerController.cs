@@ -116,7 +116,7 @@ namespace TaskManagerApi.Controllers
 
         // GET: api/Task/5
         [ResponseType(typeof(TaskModel))]
-        [Route("DeleteTaskById")]
+        [Route("DeleteTaskById/{taskid:int}")]
         [HttpDelete]
         public IHttpActionResult DeleteTaskById(int taskid)
         {
